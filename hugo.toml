@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo.duarte.co.uk/'
 locale = 'en-GB'
 title = 'Hugo Duarte | Senior Software Developer'
 disableKinds = ['taxonomy', 'term', 'RSS']
