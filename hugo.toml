@@ -1,16 +1,15 @@
 baseURL = 'https://hugo.duarte.co.uk/'
 locale = 'en-GB'
-title = 'Hugo Duarte | Senior Software Developer'
+title = 'Hugo Duarte | Senior Software Engineer'
 disableKinds = ['taxonomy', 'term', 'RSS']
 enableRobotsTXT = true
 
 [params]
   name = 'Hugo Duarte'
-  role = 'Senior Software Developer'
-  description = 'Backend-focused software developer with 9+ years of commercial experience in PHP, Laravel, APIs and financial-services applications.'
+  role = 'Senior Software Engineer'
+  description = 'Backend-focused software engineer with 9+ years of commercial experience in PHP, Laravel, APIs and financial-services applications.'
   location = 'Northumberland, UK'
-  github = 'https://github.com/Hugo-Duarte'
-  # Add your real details to enable these links. Empty values stay hidden.
+  github = ''
   email = ''
-  linkedin = ''
-  cv = '' # e.g. 'files/hugo-duarte-cv.pdf', with PDF in static/files/
+  linkedin = 'https://www.linkedin.com/in/hugo-duarte/'
+  cv = ''
