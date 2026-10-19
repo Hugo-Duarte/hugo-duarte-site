@@ -1,4 +1,4 @@
-baseURL = 'https://hugo.duarte.co.uk/'
+baseURL = 'https://hugoduarte.co.uk/'
 locale = 'en-GB'
 title = 'Hugo Duarte | Senior Software Engineer'
 disableKinds = ['taxonomy', 'term', 'RSS']
@@ -11,5 +11,5 @@ enableRobotsTXT = true
   location = 'Northumberland, UK'
   github = ''
   linkedin = 'https://www.linkedin.com/in/hugo-duarte/'
-  email = 'your@email.com'
+  email = 'hugoduarte.dev@gmail.com'
   cv = 'files/hugo-duarte-cv.pdf'
