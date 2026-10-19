@@ -30,11 +30,11 @@
       <p class="eyebrow">{{ .Site.Params.location }}</p>
       <h1>Senior Software Engineer</h1>
       <p class="lead">I’m Hugo, a senior software engineer with over nine years of commercial experience building and evolving business-critical applications, APIs and integrations.</p>
-      <p class="summary">My commercial background is centred on PHP and Laravel, with experience across Vue, JavaScript/TypeScript, MySQL, automated testing and financial-services applications.</p>
+      <p class="summary">My commercial background is centred on PHP and Laravel, with experience in Vue, JavaScript/TypeScript, MySQL and automated testing across SaaS and financial-services applications.</p>
 
       <div class="actions">
-        {{ with .Site.Params.linkedin }}<a class="button primary" href="{{ . }}">LinkedIn</a>{{ end }}
-        {{ with .Site.Params.cv }}<a class="button" href="{{ . | relURL }}">Download CV</a>{{ end }}
+        {{ with .Site.Params.cv }}<a class="button primary" href="{{ . | relURL }}">View CV</a>{{ end }}
+        {{ with .Site.Params.linkedin }}<a class="button" href="{{ . }}">LinkedIn</a>{{ end }}
         {{ with .Site.Params.email }}<a class="button" href="mailto:{{ . }}">Email me</a>{{ end }}
       </div>
 
@@ -66,7 +66,7 @@
           <li>Improving quality through automated testing, refactoring and incremental modernisation.</li>
           <li>Working across backend and frontend systems to deliver complete features.</li>
         </ul>
-        <p class="muted">My previous experience spans SaaS platforms, customer-facing products and full-stack development across mature and evolving systems.</p>
+        <p class="muted">My previous experience includes SaaS platforms, customer-facing applications and full-stack development.</p>
       </div>
     </section>
 
