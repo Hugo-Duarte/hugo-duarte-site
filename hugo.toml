@@ -7,7 +7,7 @@ enableRobotsTXT = true
 [params]
   name = 'Hugo Duarte'
   role = 'Senior Software Engineer'
-  description = 'Backend-focused software engineer with 9+ years of commercial experience in PHP, Laravel, APIs and financial-services applications.'
+  description = 'Senior software engineer with 9+ years of experience designing and delivering PHP/Laravel, API and full-stack solutions across SaaS and financial services.'
   location = 'Northumberland, UK'
   github = ''
   linkedin = 'https://www.linkedin.com/in/hugo-duarte/'
